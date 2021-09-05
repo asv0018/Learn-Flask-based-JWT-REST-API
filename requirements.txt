@@ -1,0 +1,9 @@
+flask
+flask-restful
+SQLAlchemy
+Flask-SQLAlchemy
+flask-httpauth
+jwt
+PyJWT
+Flask-SQLAlchemy
+uuid
